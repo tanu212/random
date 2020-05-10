@@ -1,2 +1,2 @@
 # random
-random repo
+random repo for git commands
