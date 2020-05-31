@@ -1,3 +1,3 @@
 # random
 random repo
-demostration of git commands
+demonstration of git commands
